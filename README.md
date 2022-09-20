@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermi14&label=Profile%20views&color=0e75b6&style=flat" alt="ermi14" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ermiyaskasahun" target="blank"><img src="https://img.shields.io/twitter/follow/@ermiyaskasahun?logo=twitter&style=for-the-badge" alt="@ermiyaskasahun" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ermiyas_kasahun" target="blank"><img src="https://img.shields.io/twitter/follow/@ermiyas_kasahun?logo=twitter&style=for-the-badge" alt="@ermiyas_kasahun" /></a> </p>
 
 - 🔭 I’m currently working on [Triopia mobile app](https://triopia.travel/)
 
