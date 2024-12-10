@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermi14&label=Profile%20views&color=0e75b6&style=flat" alt="ermi14" /> </p>
 
-- 🔭 I’m currently working on [Triopia mobile app](https://triopia.travel/)
-
-- 🌱 I’m currently learning **AWS**
+- 🔭 I’m currently working on [Speekly creator app](https://speekly.de/)
 
 - 💬 Ask me about **Flutter, Android**
 
